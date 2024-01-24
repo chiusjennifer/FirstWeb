@@ -57,7 +57,7 @@
         <br>
     <div align="center">
         <h2>會員登入</h2>
-        <form action="<%=request.getContextPath()%>/login" method="post">
+        <form action="<%=request.getContextPath()%>/login_validation.jsp" method="post">
          <table style="with: 100%">
           <tr>
            <td>帳號:</td>
